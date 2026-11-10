@@ -16,3 +16,7 @@ logging:
   level:
     root: WARN
     com.girhub.deripas: INFO
+
+friday:
+  hud:
+    view: printer
